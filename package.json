@@ -1,0 +1,16 @@
+{
+  "name": "build-failure-notifier",
+  "version": "1.0.0",
+  "description": "Build Failure Notifier:\r - Install node.js\r - Install Visual Studio Code\r - Create main.js file containing server program\r - Install Jenkins Plugin to get send build notifications\r https://wiki.jenkins-ci.org/display/JENKINS/Notification+Plugin\r - Connect Raspberry Pi...\r - Install win-sshfs to be able to access Raspberry system files from windows\r https://code.google.com/p/win-sshfs/downloads/detail?name=win-sshfs-0.0.1.5-setup.exe&can=2&q=\r - Install Putty\r -",
+  "main": "main.js",
+  "dependencies": {
+    "node-supervisor-master": "^0.9.1",
+    "pi-gpio": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
