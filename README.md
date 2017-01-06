@@ -7,5 +7,5 @@ Build Failure Notifier:
 [https://wiki.jenkins-ci.org/display/JENKINS/Notification+Plugin](Link URL)
 * Connect Raspberry Pi...
 * Install win-sshfs to be able to access Raspberry system files from windows
-https://code.google.com/p/win-sshfs/downloads/detail?name=win-sshfs-0.0.1.5-setup.exe&can=2&q=
+[https://code.google.com/p/win-sshfs/downloads/detail?name=win-sshfs-0.0.1.5-setup.exe&can=2&q=](Link URL)
 * Install Putty
